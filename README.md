@@ -2,6 +2,9 @@
 
 This project focuses on detecting human emotions from speech using Deep Learning techniques. By extracting MFCC (Mel-Frequency Cepstral Coefficients) features from audio signals and training models like CNN, RNN, and LSTM, the system classifies speech into different emotional states (e.g., happy, sad, angry, neutral, etc.).
 
+![Alt Text](image3.png)
+
+
 ## ✨ Key Features
 
 Preprocessing of audio data using Librosa for feature extraction (MFCCs, Chroma, Mel Spectrograms).
